@@ -34,6 +34,7 @@ Title | Solution | Difficulty | Others
 # <h3> Dynamic Programming 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[91. Decode Ways](https://leetcode.com/problems/decode-ways/)| [Solution](solution91.cc)| Medium |
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)| [Solution](solution1824.cc)| Medium |
