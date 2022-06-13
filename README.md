@@ -94,3 +94,9 @@ Title | Solution | Difficulty | Others
 [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)| [Solution](solution1773.cc)| Easy |
 [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [Solution](solution1816.cc)| Easy |
 [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)| [Solution](solution1897.cc)| Easy |
+
+
+# <h3> Tree
+Title | Solution | Difficulty | Others
+------|----------|------------|-------
+[94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Solution](solution94.cc)| Easy |
