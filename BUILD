@@ -16,6 +16,30 @@ cc_library(
     srcs = ["solution87.cc"],
 )
 
+cc_library(
+    name = "solution91",
+    hdrs = ["solution91.h"],
+    srcs = ["solution91.cc"],
+)
+
+cc_library(
+    name = "solution92",
+    hdrs = ["solution91.h"],
+    srcs = ["solution91.cc"],
+    deps = [
+      ":ListNode"
+    ]
+)
+
+cc_library(
+    name = "solution94",
+    hdrs = ["solution94.h"],
+    srcs = ["solution94.cc"],
+    deps = [
+      ":TreeNode"
+    ]
+)
+
 cc_test(
   name = "solution87_test",
   size = "small",
@@ -24,4 +48,24 @@ cc_test(
     "@com_google_googletest//:gtest_main",
     ":solution87"
   ],
+)
+
+cc_test(
+  name = "solution91_test",
+  size = "small",
+  srcs=["solution91_test.cc"],
+  deps = [
+    "@com_google_googletest//:gtest_main",
+    ":solution91"
+  ],
+)
+
+cc_library(
+    name = "TreeNode",
+    hdrs = ["TreeNode.h"],
+)  
+
+cc_library(
+    name = "ListNode",
+    hdrs = ["ListNode.h"],
 )
