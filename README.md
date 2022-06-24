@@ -103,3 +103,4 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [94. Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)| [Solution](solution94.cc)| Easy |
+[98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)| [Solution](solution98.cc)| Medium |

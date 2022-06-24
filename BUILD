@@ -55,6 +55,15 @@ cc_library(
     srcs = ["solution96.cc"]
 )
 
+cc_library(
+    name = "solution98",
+    hdrs = ["solution98.h"],
+    srcs = ["solution98.cc"],
+    deps = [
+      ":TreeNode"
+    ]
+)
+
 cc_test(
   name = "solution87_test",
   size = "small",
