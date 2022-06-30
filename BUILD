@@ -56,6 +56,12 @@ cc_library(
 )
 
 cc_library(
+    name = "solution97",
+    hdrs = ["solution97.h"],
+    srcs = ["solution97.cc"]
+)
+
+cc_library(
     name = "solution98",
     hdrs = ["solution98.h"],
     srcs = ["solution98.cc"],
@@ -91,6 +97,16 @@ cc_test(
   deps = [
     "@com_google_googletest//:gtest_main",
     ":solution96"
+  ],
+)
+
+cc_test(
+  name = "solution97_test",
+  size = "small",
+  srcs=["solution97_test.cc"],
+  deps = [
+    "@com_google_googletest//:gtest_main",
+    ":solution97"
   ],
 )
 
