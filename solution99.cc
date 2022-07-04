@@ -4,6 +4,7 @@
 
 namespace Leetcode {
 void Solution99::recoverTree(TreeNode* root) {
+    // TC:O(N), SC:O(1)
     traversal(root);
     
     if (first_replace != nullptr && second_replace != nullptr) {
