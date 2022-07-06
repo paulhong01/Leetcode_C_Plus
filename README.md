@@ -109,3 +109,4 @@ Title | Solution | Difficulty | Others
 [100. Same Tree](https://leetcode.com/problems/same-tree/)| [Solution](solution100.cc)| Easy |
 [101. Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)| [Solution](solution101.cc)| Easy |
 [102. Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/)| [Solution](solution102.cc)| Medium |
+[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)| [Solution](solution104.cc)| Easy |
