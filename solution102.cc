@@ -8,6 +8,7 @@
 namespace Leetcode {
 
 std::vector<std::vector<int>> Solution102::levelOrder(TreeNode* root) {
+    // TC:O(N), SC:O(N)
     std::vector<std::vector<int>> ret;
     if (root == nullptr) {
         return ret;
