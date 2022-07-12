@@ -6,6 +6,7 @@
 
 namespace Leetcode {
 TreeNode* Solution108::sortedArrayToBST(std::vector<int>& nums) {
+    // TC:O(N), SC:O(N)
     TreeNode* root = buildSubTree(nums, 0, nums.size()-1);
     return root;
 }
