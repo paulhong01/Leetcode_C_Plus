@@ -143,11 +143,30 @@ cc_library(
 )
 
 cc_library(
+    name = "solution107",
+    hdrs = ["solution107.h"],
+    srcs = ["solution107.cc"],
+    deps = [
+      ":TreeNode"
+    ]
+)
+
+cc_library(
     name = "solution108",
     hdrs = ["solution108.h"],
     srcs = ["solution108.cc"],
     deps = [
       ":TreeNode"
+    ]
+)
+
+cc_library(
+    name = "solution109",
+    hdrs = ["solution109.h"],
+    srcs = ["solution109.cc"],
+    deps = [
+      ":TreeNode",
+      ":ListNode"
     ]
 )
 
