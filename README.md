@@ -117,3 +117,4 @@ Title | Solution | Difficulty | Others
 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)| [Solution](solution108.cc)| Easy |
 [109. Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/)| [Solution](solution109.cc)| Medium |
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Solution](solution110.cc)| Easy |
+[111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Solution](solution111.cc)| Easy |
