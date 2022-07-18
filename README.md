@@ -30,6 +30,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [78. Subsets](https://leetcode.com/problems/subsets/)| [Solution](solution78.cc)| Medium |
+[113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Solution](solution113.cc)| Medium |
 
 
 # <h3> Dynamic Programming 
