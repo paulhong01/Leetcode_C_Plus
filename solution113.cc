@@ -6,6 +6,7 @@
 
 namespace Leetcode {
 std::vector<std::vector<int>> Solution113::pathSum(TreeNode* root, int targetSum) {
+    // TC:O(N), SC:O(N)
     std::vector<std::vector<int>> ret;
     std::vector<int> cur_list;
     if (root != nullptr)
