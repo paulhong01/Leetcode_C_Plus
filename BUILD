@@ -189,6 +189,15 @@ cc_library(
 )
 
 cc_library(
+    name = "solution112",
+    hdrs = ["solution112.h"],
+    srcs = ["solution112.cc"],
+    deps = [
+      ":TreeNode"
+    ]
+)
+
+cc_library(
     name = "solution113",
     hdrs = ["solution113.h"],
     srcs = ["solution113.cc"],
