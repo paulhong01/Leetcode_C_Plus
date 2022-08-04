@@ -8,6 +8,7 @@ void Solution114::flatten(TreeNode* root) {
 }
 
 TreeNode* Solution114::helper(TreeNode* cur) {
+    // TC:O(N), SC:O(N)
     if (cur == nullptr) {
         return nullptr;
     }
