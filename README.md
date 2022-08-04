@@ -120,3 +120,4 @@ Title | Solution | Difficulty | Others
 [110. Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)| [Solution](solution110.cc)| Easy |
 [111. Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/)| [Solution](solution111.cc)| Easy |
 [112. Path Sum](https://leetcode.com/problems/path-sum/)| [Solution](solution112.cc)| Easy |
+[114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [Solution](solution114.cc)| Medium |
