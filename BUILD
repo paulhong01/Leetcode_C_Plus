@@ -216,9 +216,9 @@ cc_library(
 )
 
 cc_library(
-    name = "solution115",
-    hdrs = ["solution115.h"],
-    srcs = ["solution115.cc"],
+    name = "solution116",
+    hdrs = ["solution116.h"],
+    srcs = ["solution116.cc"],
     deps = [
       ":Node"
     ]
