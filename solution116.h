@@ -2,6 +2,8 @@
 #ifndef LEETCODE_SOLUTION116
 #define LEETCODE_SOLUTION116
 
+#include "Node.h"
+
 namespace Leetcode {
 class Solution116 {
 public:
