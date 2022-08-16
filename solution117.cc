@@ -4,6 +4,7 @@
 
 #include "Node.h"
 
+namespace Leetcode {
 Node* Solution117::connect(Node* root) {
     // TC:O(N), SC:O(N)
     std::queue<Node*> q;
@@ -29,3 +30,4 @@ Node* Solution117::connect(Node* root) {
     }
     return root;
 }
+}   // namespace Leetcode
