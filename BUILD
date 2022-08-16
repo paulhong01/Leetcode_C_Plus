@@ -224,6 +224,15 @@ cc_library(
     ]
 )
 
+cc_library(
+    name = "solution117",
+    hdrs = ["solution117.h"],
+    srcs = ["solution117.cc"],
+    deps = [
+      ":Node"
+    ]
+)
+
 
 cc_test(
   name = "solution87_test",
