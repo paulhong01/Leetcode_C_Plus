@@ -7,6 +7,7 @@ Title | Solution | Difficulty | Others
 [1. Two Sum](https://leetcode.com/problems/two-sum/)| [Solution](solution1.cc)| Easy |
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Solution](solution88.cc)| Easy |
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/)| [Solution](solution90.cc)| Medium |
+[118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Solution](solution118.cc)| Easy |
 [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Solution](solution1710.cc)| Easy |
 [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)| [Solution](solution1786.cc)| Medium |
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)| [Solution](solution1823.cc)| Medium |
@@ -40,6 +41,7 @@ Title | Solution | Difficulty | Others
 [95. Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/)| [Solution](solution95.cc)| Medium 
 [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)| [Solution](solution96.cc)| Medium |
 [97. Interleaving String](https://leetcode.com/problems/interleaving-string/)| [Solution](solution97.cc)| Medium |
+[121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)| [Solution](solution121.cc)| Easy |
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)| [Solution](solution1824.cc)| Medium |
