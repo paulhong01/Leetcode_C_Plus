@@ -253,6 +253,12 @@ cc_library(
     srcs = ["solution122.cc"],
 )
 
+cc_library(
+    name = "solution123",
+    hdrs = ["solution123.h"],
+    srcs = ["solution123.cc"],
+)
+
 cc_test(
   name = "solution87_test",
   size = "small",
@@ -324,6 +330,15 @@ cc_test(
   ],
 )
 
+cc_test(
+  name = "solution123_test",
+  size = "small",
+  srcs=["solution123_test.cc"],
+  deps = [
+    "@com_google_googletest//:gtest_main",
+    ":solution123"
+  ],
+)
 
 cc_library(
     name = "Node",
