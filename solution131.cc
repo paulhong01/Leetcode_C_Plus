@@ -5,6 +5,7 @@
 
 namespace Leetcode {
 std::vector<std::vector<std::string>> Solution131::partition(std::string s) {
+    // TC:O(N*2^N), SC:O(N)
     std::vector<std::vector<std::string>> ret;
     std::vector<std::string> cur_list;
     dfs(ret, cur_list, 0, s);
