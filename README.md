@@ -26,6 +26,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [89. Gray Code](https://leetcode.com/problems/gray-code/)| [Solution](solution89.cc)| Medium |
+[136. Single Number](https://leetcode.com/problems/single-number/)| [Solution](solution136.cc)| Easy |
 
 
 # <h3> Backtracking 
