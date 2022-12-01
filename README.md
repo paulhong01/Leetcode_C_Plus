@@ -95,6 +95,7 @@ Title | Solution | Difficulty | Others
 [92. Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/)| [Solution](solution92.cc)| Medium |
 [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Solution](solution116.cc)| Medium |
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Solution](solution117.cc)| Medium |
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [Solution](solution138.cc)| Medium |
 
 
 # <h3> Math 
