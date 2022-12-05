@@ -97,6 +97,7 @@ Title | Solution | Difficulty | Others
 [116. Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/)| [Solution](solution116.cc)| Medium |
 [117. Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/)| [Solution](solution117.cc)| Medium |
 [138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/)| [Solution](solution138.cc)| Medium |
+[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)| [Solution](solution141.cc)| Easy |
 
 
 # <h3> Math 
