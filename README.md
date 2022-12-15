@@ -83,6 +83,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [133. Clone Graph](https://leetcode.com/problems/clone-graph/)| [Solution](solution133.cc)| Medium |
+[146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)| [Solution](solution146.cc)| Medium |
 [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](solution1817.cc)| Medium |
 [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](solution1915.cc)| Medium |
 
