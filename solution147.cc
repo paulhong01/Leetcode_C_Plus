@@ -2,7 +2,7 @@
 
 namespace Leetcode {
 ListNode* insertionSortList(ListNode* head) {
-    // TC:O(N), SC:O(1)
+    // TC:O(N^2), SC:O(1)
     ListNode* dummy = new ListNode(0);
     ListNode* insert_iter = dummy;
     ListNode* cur = head;
