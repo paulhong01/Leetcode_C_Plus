@@ -56,6 +56,7 @@ Title | Solution | Difficulty | Others
 [132. Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)| [Solution](solution132.cc)| Hard |
 [139. Word Break](https://leetcode.com/problems/word-break/)| [Solution](solution139.cc)| Medium |
 [140. Word Break II](https://leetcode.com/problems/word-break-ii/description/)| [Solution](solution140.cc)| Hard |
+[152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/description/)| [Solution](solution152.cc)| Medium |
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)| [Solution](solution1824.cc)| Medium |
