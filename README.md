@@ -19,6 +19,7 @@ Title | Solution | Difficulty | Others
 # <h3> Binary search 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)| [Solution](solution153.cc)| Medium |
 [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](solution1898.cc)| Medium |
 
 

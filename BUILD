@@ -334,6 +334,12 @@ cc_library(
     srcs = ["solution152.cc"],
 )
 
+cc_library(
+    name = "solution153",
+    hdrs = ["solution153.h"],
+    srcs = ["solution153.cc"],
+)
+
 cc_test(
   name = "solution87_test",
   size = "small",
