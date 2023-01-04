@@ -67,6 +67,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [130. Surrounded Regions](https://leetcode.com/problems/surrounded-regions/)| [Solution](solution130.cc)| Medium |
+[1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)| [Solution](solution1254.cc)| Medium |
 [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)| [Solution](solution1905.cc)| Medium |
 
 
