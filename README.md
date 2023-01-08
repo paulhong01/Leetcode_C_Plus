@@ -20,6 +20,7 @@ Title | Solution | Difficulty | Others
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/)| [Solution](solution153.cc)| Medium |
+[154. Find Minimum in Rotated Sorted Array II](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii/description/)| [Solution](solution154.cc)| Hard |
 [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](solution1898.cc)| Medium |
 
 
