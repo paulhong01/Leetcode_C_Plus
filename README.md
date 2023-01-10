@@ -130,6 +130,7 @@ Title | Solution | Difficulty | Others
 [87. Scramble String](https://leetcode.com/problems/scramble-string/)| [Solution](solution87.cc)| Hard |
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)| [Solution](solution151.cc)| Medium |
 [155. Min Stack](https://leetcode.com/problems/min-stack/description/)| [Solution](solution155.cc)| Medium |
+[165. Compare Version Numbers](https://leetcode.com/problems/compare-version-numbers/description/)| [Solution](solution165.cc)| Medium |
 [1768. Merge Strings Alternately](https://leetcode.com/problems/merge-strings-alternately/)| [Solution](solution1768.cc)| Easy |
 [1773. Count Items Matching a Rule](https://leetcode.com/problems/count-items-matching-a-rule/)| [Solution](solution1773.cc)| Easy |
 [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [Solution](solution1816.cc)| Easy |
