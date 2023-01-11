@@ -109,6 +109,7 @@ Title | Solution | Difficulty | Others
 [143. Reorder List](https://leetcode.com/problems/reorder-list/description/)| [Solution](solution143.cc)| Medium |
 [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)| [Solution](solution147.cc)| Medium |
 [148. Sort List](https://leetcode.com/problems/sort-list/description/)| [Solution](solution148.cc)| Medium |
+[160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [Solution](solution160.cc)| Medium |
 
 
 # <h3> Math 
