@@ -8,7 +8,8 @@ Title | Solution | Difficulty | Others
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)| [Solution](solution88.cc)| Easy |
 [90. Subsets II](https://leetcode.com/problems/subsets-ii/)| [Solution](solution90.cc)| Medium |
 [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)| [Solution](solution118.cc)| Easy |
-[128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [Solution](solution128.cc)| Medium |
+[128. Longest Consecutive Sequence](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [Solution](solution167.cc)| Medium |
+[167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/longest-consecutive-sequence/)| [Solution](solution128.cc)| Medium |
 [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Solution](solution1710.cc)| Easy |
 [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)| [Solution](solution1786.cc)| Medium |
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)| [Solution](solution1823.cc)| Medium |
