@@ -116,6 +116,7 @@ Title | Solution | Difficulty | Others
 # <h3> Math 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
+[168. Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/description/)| [Solution](solution168.cc)| Easy |
 [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [Solution](solution1822.cc)| Easy |
 [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/)| [Solution](solution1904.cc)| Medium |
 
