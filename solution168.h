@@ -8,7 +8,7 @@ namespace Leetcode {
 
 class Solution168 {
 public:
-    string convertToTitle(int columnNumber);
+    std::string convertToTitle(int columnNumber);
 };
 
 }   // namespace Leetcode
