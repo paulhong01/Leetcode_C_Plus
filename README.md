@@ -166,4 +166,5 @@ Title | Solution | Difficulty | Others
 [114. Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)| [Solution](solution114.cc)| Medium |
 [129. Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/)| [Solution](solution129.cc)| Medium |
 [144. Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/description/)| [Solution](solution144.cc)| Easy |
-[144. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)| [Solution](solution145.cc)| Easy |
+[145. Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/description/)| [Solution](solution145.cc)| Easy |
+[173. Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/)| [Solution](solution173.cc)| Medium |
