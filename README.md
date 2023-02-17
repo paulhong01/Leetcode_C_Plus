@@ -34,6 +34,7 @@ Title | Solution | Difficulty | Others
 [89. Gray Code](https://leetcode.com/problems/gray-code/)| [Solution](solution89.cc)| Medium |
 [136. Single Number](https://leetcode.com/problems/single-number/)| [Solution](solution136.cc)| Easy |
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/)| [Solution](solution137.cc)| Medium |
+[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)| [Solution](solution190.cc)| Easy |
 
 
 # <h3> Backtracking 
