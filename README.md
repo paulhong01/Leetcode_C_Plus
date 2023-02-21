@@ -35,6 +35,7 @@ Title | Solution | Difficulty | Others
 [136. Single Number](https://leetcode.com/problems/single-number/)| [Solution](solution136.cc)| Easy |
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/)| [Solution](solution137.cc)| Medium |
 [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)| [Solution](solution190.cc)| Easy |
+[191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)| [Solution](solution190.cc)| Easy |
 
 
 # <h3> Backtracking 

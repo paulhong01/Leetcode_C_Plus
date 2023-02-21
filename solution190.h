@@ -2,6 +2,8 @@
 #ifndef LEETCODE_SOLUTION190
 #define LEETCODE_SOLUTION190
 
+#include <cinttypes>
+
 namespace Leetcode {
 
 class Solution190 {
