@@ -1,5 +1,7 @@
 #include "solution190.h"
 
+#include <cinttypes>
+
 namespace Leetcode {
 
 uint32_t Solution190::reverseBits(uint32_t n) {
