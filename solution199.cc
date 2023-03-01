@@ -8,6 +8,7 @@
 namespace Leetcode {
 
 std::vector<int> Solution199::rightSideView(TreeNode* root) {
+    // TC:O(N), SC:O(N)
     std::vector<int> ret;
     std::queue<TreeNode*> q;
     if (root != nullptr) {
