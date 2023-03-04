@@ -11,6 +11,7 @@ Title | Solution | Difficulty | Others
 [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)| [Solution](solution128.cc)| Medium |
 [167. Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)| [Solution](solution167.cc)| Medium |
 [169. Majority Element](https://leetcode.com/problems/majority-element/description/)| [Solution](solution169.cc)| Easy |
+[174. Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)| [Solution](solution174.cc)| Hard |
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/description/)| [Solution](solution189.cc)| Medium |
 [1710. Maximum Units on a Truck](https://leetcode.com/problems/maximum-units-on-a-truck/)| [Solution](solution1710.cc)| Easy |
 [1786. Number of Restricted Paths From First to Last Node](https://leetcode.com/problems/number-of-restricted-paths-from-first-to-last-node/)| [Solution](solution1786.cc)| Medium |
