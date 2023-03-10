@@ -131,6 +131,8 @@ Title | Solution | Difficulty | Others
 [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| [Solution](solution172.cc)| Medium |
 [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [Solution](solution1822.cc)| Easy |
 [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/)| [Solution](solution1904.cc)| Medium |
+[2578. Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)| [Solution](solution2578.cc)| Easy |
+[2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)| [Solution](solution2579.cc)| Medium |
 
 
 # <h3> Stack 
