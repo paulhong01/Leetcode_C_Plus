@@ -91,6 +91,7 @@ Title | Solution | Difficulty | Others
 [1785. Minimum Elements to Add to Form a Given Sum](https://leetcode.com/problems/minimum-elements-to-add-to-form-a-given-sum/)| [Solution](solution1785.cc)| Medium |
 [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)| [Solution](solution1899.cc)| Medium |
 [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)| [Solution](solution1903.cc)| Easy |
+[2578. Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/description/)| [Solution](solution2578.cc)| Easy |
 
 
 # <h3> Hash Table 
@@ -131,6 +132,7 @@ Title | Solution | Difficulty | Others
 [172. Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/description/)| [Solution](solution172.cc)| Medium |
 [1822. Sign of the Product of an Array](https://leetcode.com/problems/sign-of-the-product-of-an-array/)| [Solution](solution1822.cc)| Easy |
 [1904. The Number of Full Rounds You Have Played](https://leetcode.com/problems/the-number-of-full-rounds-you-have-played/)| [Solution](solution1904.cc)| Medium |
+[2578. Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)| [Solution](solution2578.cc)| Easy |
 
 
 # <h3> Stack 
