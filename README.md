@@ -18,6 +18,7 @@ Title | Solution | Difficulty | Others
 [1823. Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/)| [Solution](solution1823.cc)| Medium |
 [1913. Maximum Product Difference Between Two Pairs](https://leetcode.com/problems/maximum-product-difference-between-two-pairs/)| [Solution](solution1913.cc)| Easy |
 [1920. Build Array from Permutation](https://leetcode.com/problems/build-array-from-permutation/)| [Solution](solution1920.cc)| Easy |
+[2580. Count Ways to Group Overlapping Ranges](https://leetcode.com/problems/count-ways-to-group-overlapping-ranges/)| [Solution](solution2580.cc)| Medium |
 
 
 # <h3> Binary search 
