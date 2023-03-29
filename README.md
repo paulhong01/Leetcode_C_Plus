@@ -101,6 +101,7 @@ Title | Solution | Difficulty | Others
 [146. LRU Cache](https://leetcode.com/problems/lru-cache/description/)| [Solution](solution146.cc)| Medium |
 [166. Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/description/)| [Solution](solution166.cc)| Medium |
 [187. Repeated DNA Sequences](https://leetcode.com/problems/repeated-dna-sequences/description/)| [Solution](solution187.cc)| Medium |
+[560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)| [Solution](solution560.cc)| Medium |
 [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](solution1817.cc)| Medium |
 [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](solution1915.cc)| Medium |
 
