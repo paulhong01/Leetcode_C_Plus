@@ -6,6 +6,7 @@
 namespace Leetcode {
 
 long long beautifulSubarrays(std::vector<int>& nums) {
+    // TC:O(N), SC:O(N)
     std::unordered_map<int, int> visited{{0, 1}};
     long long result = 0, prefix = 0;
     for (const auto num : nums) {
