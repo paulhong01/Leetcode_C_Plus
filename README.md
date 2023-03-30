@@ -104,6 +104,7 @@ Title | Solution | Difficulty | Others
 [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)| [Solution](solution560.cc)| Medium |
 [1817. Finding the Users Active Minutes](https://leetcode.com/problems/finding-the-users-active-minutes/)| [Solution](solution1817.cc)| Medium |
 [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](solution1915.cc)| Medium |
+[2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| [Solution](solution2588.cc)| Medium |
 
 
 # <h3> Linked List 
