@@ -22,6 +22,7 @@ Title | Solution | Difficulty | Others
 [2586. Count the Number of Vowel Strings in Range](https://leetcode.com/problems/count-the-number-of-vowel-strings-in-range/)| [Solution](solution2586.cc)| Easy |
 [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/)| [Solution](solution2587.cc)| Medium |
 [2592. Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/)| [Solution](solution2592.cc)| Medium |
+[2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)| [Solution](solution2593.cc)| Medium |
 
 
 # <h3> Binary search 
