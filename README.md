@@ -42,6 +42,7 @@ Title | Solution | Difficulty | Others
 [137. Single Number II](https://leetcode.com/problems/single-number-ii/)| [Solution](solution137.cc)| Medium |
 [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)| [Solution](solution190.cc)| Easy |
 [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)| [Solution](solution190.cc)| Easy |
+[2595. Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)| [Solution](solution2595.cc)| Easy |
 
 
 # <h3> Backtracking 
