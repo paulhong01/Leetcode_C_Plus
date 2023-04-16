@@ -99,6 +99,7 @@ Title | Solution | Difficulty | Others
 [1899. Merge Triplets to Form Target Triplet](https://leetcode.com/problems/merge-triplets-to-form-target-triplet/)| [Solution](solution1899.cc)| Medium |
 [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)| [Solution](solution1903.cc)| Easy |
 [2600. K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)| [Solution](solution2600.cc)| Easy |
+[2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)| [Solution](solution2601.cc)| Medium |
 
 
 # <h3> Hash Table 
