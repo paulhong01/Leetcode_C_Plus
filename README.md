@@ -23,6 +23,7 @@ Title | Solution | Difficulty | Others
 [2587. Rearrange Array to Maximize Prefix Score](https://leetcode.com/problems/rearrange-array-to-maximize-prefix-score/)| [Solution](solution2587.cc)| Medium |
 [2592. Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/)| [Solution](solution2592.cc)| Medium |
 [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)| [Solution](solution2593.cc)| Medium |
+[2602. Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)| [Solution](solution2602.cc)| Medium |
 
 
 # <h3> Binary search 
