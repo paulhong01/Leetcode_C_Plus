@@ -24,6 +24,7 @@ Title | Solution | Difficulty | Others
 [2592. Maximize Greatness of an Array](https://leetcode.com/problems/maximize-greatness-of-an-array/)| [Solution](solution2592.cc)| Medium |
 [2593. Find Score of an Array After Marking All Elements](https://leetcode.com/problems/find-score-of-an-array-after-marking-all-elements/)| [Solution](solution2593.cc)| Medium |
 [2602. Minimum Operations to Make All Array Elements Equal](https://leetcode.com/problems/minimum-operations-to-make-all-array-elements-equal/)| [Solution](solution2602.cc)| Medium |
+[2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)| [Solution](solution2605.cc)| Easy |
 
 
 # <h3> Binary search 
