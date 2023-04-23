@@ -147,6 +147,7 @@ Title | Solution | Difficulty | Others
 [2578. Split With Minimum Sum](https://leetcode.com/problems/split-with-minimum-sum/)| [Solution](solution2578.cc)| Easy |
 [2579. Count Total Number of Colored Cells](https://leetcode.com/problems/count-total-number-of-colored-cells/)| [Solution](solution2579.cc)| Medium |
 [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children)| [Solution](solution2591.cc)| Easy |
+[2607. Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/)| [Solution](solution2607.cc)| Medium |
 
 
 # <h3> Stack 
