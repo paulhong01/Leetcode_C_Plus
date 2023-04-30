@@ -103,6 +103,7 @@ Title | Solution | Difficulty | Others
 [1903. Largest Odd Number in String](https://leetcode.com/problems/largest-odd-number-in-string/)| [Solution](solution1903.cc)| Easy |
 [2600. K Items With the Maximum Sum](https://leetcode.com/problems/k-items-with-the-maximum-sum/)| [Solution](solution2600.cc)| Easy |
 [2601. Prime Subtraction Operation](https://leetcode.com/problems/prime-subtraction-operation/)| [Solution](solution2601.cc)| Medium |
+[2611. Mice and Cheese](https://leetcode.com/problems/mice-and-cheese/)| [Solution](solution2611.cc)| Medium |
 
 
 # <h3> Hash Table 
