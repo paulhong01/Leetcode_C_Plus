@@ -73,7 +73,9 @@
         "unordered_map": "cpp",
         "unordered_set": "cpp",
         "utility": "cpp",
-        "variant": "cpp"
+        "variant": "cpp",
+        "filesystem": "cpp",
+        "queue": "cpp"
     },
     "C_Cpp.errorSquiggles": "Disabled"
 }

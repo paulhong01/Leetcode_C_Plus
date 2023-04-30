@@ -5,6 +5,7 @@
 namespace Leetcode {
 
 int Solution2609::findTheLongestBalancedSubstring(std::string s) {
+    // TC:O(N), SC:O(1)
     int count0 = 0, count1 = 0, ret = 0;
     for (const auto c : s) {
         if (c == '0') {
