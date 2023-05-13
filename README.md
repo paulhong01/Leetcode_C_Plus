@@ -27,6 +27,7 @@ Title | Solution | Difficulty | Others
 [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)| [Solution](solution2605.cc)| Easy |
 [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)| [Solution](solution2615.cc)| Medium |
 
+
 # <h3> Binary search 
 Title | Solution | Difficulty | Others
 ------|----------|------------|-------
