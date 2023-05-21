@@ -5,6 +5,7 @@
 namespace Leetcode {
 
 std::vector<int> findThePrefixCommonArray(std::vector<int>& A, std::vector<int>& B) {
+    // TC:O(N), SC:O(N)
     int N = A.size(); 
     std::vector<int> ret(N);
     std::vector<int> seen(N);
