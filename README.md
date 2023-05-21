@@ -94,6 +94,7 @@ Title | Solution | Difficulty | Others
 [1254. Number of Closed Islands](https://leetcode.com/problems/number-of-closed-islands/description/)| [Solution](solution1254.cc)| Medium |
 [1905. Count Sub Islands](https://leetcode.com/problems/count-sub-islands/)| [Solution](solution1905.cc)| Medium |
 [2596. Check Knight Tour Configuration](https://leetcode.com/problems/check-knight-tour-configuration/description/)| [Solution](solution2596.cc)| Medium |
+[2658. Maximum Number of Fish in a Grid](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/description/)| [Solution](solution2658.cc)| Medium |
 
 
 # <h3> Greedy 
