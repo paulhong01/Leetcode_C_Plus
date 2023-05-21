@@ -27,6 +27,7 @@ Title | Solution | Difficulty | Others
 [2605. Form Smallest Number From Two Digit Arrays](https://leetcode.com/problems/form-smallest-number-from-two-digit-arrays/)| [Solution](solution2605.cc)| Easy |
 [2614. Prime In Diagonal](https://leetcode.com/problems/prime-in-diagonal/description/)| [Solution](solution2614.cc)| Easy |
 [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)| [Solution](solution2615.cc)| Medium |
+[2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)| [Solution](solution2657.cc)| Medium |
 
 
 # <h3> Binary search 
