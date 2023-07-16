@@ -50,6 +50,7 @@ Title | Solution | Difficulty | Others
 [190. Reverse Bits](https://leetcode.com/problems/reverse-bits/description/)| [Solution](solution190.cc)| Easy |
 [191. Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/description/)| [Solution](solution190.cc)| Easy |
 [2595. Number of Even and Odd Bits](https://leetcode.com/problems/number-of-even-and-odd-bits/)| [Solution](solution2595.cc)| Easy |
+[2749. Minimum Operations to Make the Integer Zero](https://leetcode.com/problems/minimum-operations-to-make-the-integer-zero/description/)| [Solution](solution2749.cc)| Medium |
 
 
 # <h3> Backtracking 
