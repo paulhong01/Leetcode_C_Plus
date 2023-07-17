@@ -29,6 +29,7 @@ Title | Solution | Difficulty | Others
 [2615. Sum of Distances](https://leetcode.com/problems/sum-of-distances/description/)| [Solution](solution2615.cc)| Medium |
 [2656. Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/)| [Solution](solution2656.cc)| Easy |
 [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)| [Solution](solution2657.cc)| Medium |
+[2748. Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/description/)| [Solution](solution2748.cc)| Easy |
 
 
 # <h3> Binary search 
