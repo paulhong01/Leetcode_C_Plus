@@ -87,6 +87,7 @@ Title | Solution | Difficulty | Others
 [1770. Maximum Score from Performing Multiplication Operations](https://leetcode.com/problems/maximum-score-from-performing-multiplication-operations/)| [Solution](solution1770.cc)| Medium |
 [1824. Minimum Sideway Jumps](https://leetcode.com/problems/minimum-sideway-jumps/)| [Solution](solution1824.cc)| Medium |
 [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)| [Solution](solution2606.cc)| Medium |
+[2750. Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/)| [Solution](solution2750.cc)| Medium |
 
 
 # <h3> Depth-first search 
