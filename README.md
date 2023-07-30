@@ -30,6 +30,7 @@ Title | Solution | Difficulty | Others
 [2656. Maximum Sum With Exactly K Elements](https://leetcode.com/problems/maximum-sum-with-exactly-k-elements/description/)| [Solution](solution2656.cc)| Easy |
 [2657. Find the Prefix Common Array of Two Arrays](https://leetcode.com/problems/find-the-prefix-common-array-of-two-arrays/description/)| [Solution](solution2657.cc)| Medium |
 [2748. Number of Beautiful Pairs](https://leetcode.com/problems/number-of-beautiful-pairs/description/)| [Solution](solution2748.cc)| Easy |
+[2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/)| [Solution](solution2780.cc)| Medium |
 
 
 # <h3> Binary search 
