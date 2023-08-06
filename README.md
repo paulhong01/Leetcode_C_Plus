@@ -186,6 +186,7 @@ Title | Solution | Difficulty | Others
 [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [Solution](solution1816.cc)| Easy |
 [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)| [Solution](solution1897.cc)| Easy |
 [2609. Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/)| [Solution](solution2609.cc)| Easy |
+[2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)| [Solution](solution2785.cc)| Medium |
 
 
 # <h3> Tree
