@@ -33,6 +33,7 @@ Title | Solution | Difficulty | Others
 [2778. Sum of Squares of Special Elements](https://leetcode.com/problems/sum-of-squares-of-special-elements/)| [Solution](solution2778.cc)| Easy |
 [2779. Maximum Beauty of an Array After Applying Operation](https://leetcode.com/problems/maximum-beauty-of-an-array-after-applying-operation/description/)| [Solution](solution2779.cc)| Medium |
 [2780. Minimum Index of a Valid Split](https://leetcode.com/problems/minimum-index-of-a-valid-split/)| [Solution](solution2780.cc)| Medium |
+[2784. Check if Array is Good](https://leetcode.com/problems/check-if-array-is-good/)| [Solution](solution2784.cc)| Easy |
 
 
 # <h3> Binary search 
