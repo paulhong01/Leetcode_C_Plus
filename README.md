@@ -93,6 +93,7 @@ Title | Solution | Difficulty | Others
 [2606. Find the Substring With Maximum Cost](https://leetcode.com/problems/find-the-substring-with-maximum-cost/)| [Solution](solution2606.cc)| Medium |
 [2750. Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/)| [Solution](solution2750.cc)| Medium |
 [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/)| [Solution](solution2770.cc)| Medium |
+[2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/)| [Solution](solution2786.cc)| Medium |
 
 
 # <h3> Depth-first search 
@@ -186,6 +187,7 @@ Title | Solution | Difficulty | Others
 [1816. Truncate Sentence](https://leetcode.com/problems/truncate-sentence/)| [Solution](solution1816.cc)| Easy |
 [1897. Redistribute Characters to Make All Strings Equal](https://leetcode.com/problems/redistribute-characters-to-make-all-strings-equal/)| [Solution](solution1897.cc)| Easy |
 [2609. Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/)| [Solution](solution2609.cc)| Easy |
+[2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)| [Solution](solution2785.cc)| Medium |
 
 
 # <h3> Tree
