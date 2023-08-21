@@ -6,6 +6,7 @@
 namespace Leetcode {
 
 int countCompleteSubarrays(std::vector<int>& nums) {
+    // TC:O(N), SC:O(N)
     std::unordered_map<int, int> freq;
     for (int num : nums) {
         freq[num]++;
