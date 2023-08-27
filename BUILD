@@ -722,6 +722,15 @@ cc_library(
 )
 
 cc_library(
+    name = "solution2807",
+    hdrs = ["solution2807.h"],
+    srcs = ["solution2807.cc"],
+    deps = [
+      ":ListNode"
+    ]
+)
+
+cc_library(
     name = "solution2808",
     hdrs = ["solution2808.h"],
     srcs = ["solution2808.cc"],
