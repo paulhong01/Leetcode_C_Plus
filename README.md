@@ -154,6 +154,7 @@ Title | Solution | Difficulty | Others
 [147. Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/description/)| [Solution](solution147.cc)| Medium |
 [148. Sort List](https://leetcode.com/problems/sort-list/description/)| [Solution](solution148.cc)| Medium |
 [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [Solution](solution160.cc)| Medium |
+[2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)| [Solution](solution2807.cc)| Medium |
 
 
 # <h3> Math 
