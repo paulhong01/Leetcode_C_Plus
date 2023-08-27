@@ -134,6 +134,7 @@ Title | Solution | Difficulty | Others
 [1915. Number of Wonderful Substrings](https://leetcode.com/problems/number-of-wonderful-substrings/)| [Solution](solution1915.cc)| Medium |
 [2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| [Solution](solution2588.cc)| Medium |
 [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)| [Solution](solution2610.cc)| Medium |
+[2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/)| [Solution](solution2808.cc)| Medium |
 
 
 # <h3> Linked List 
