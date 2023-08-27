@@ -20,6 +20,7 @@ int GetGcd(int val1, int val2) {
 
 
 ListNode* Solution2807::insertGreatestCommonDivisors(ListNode* head) {
+    // TC:O(N), SC:O(1)
     ListNode* cur = head;
     while (cur != nullptr && cur->next != nullptr) {
         ListNode* origin_next = cur->next;
