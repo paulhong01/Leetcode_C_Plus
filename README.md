@@ -168,6 +168,7 @@ Title | Solution | Difficulty | Others
 [2591. Distribute Money to Maximum Children](https://leetcode.com/problems/distribute-money-to-maximum-children)| [Solution](solution2591.cc)| Easy |
 [2607. Make K-Subarray Sums Equal](https://leetcode.com/problems/make-k-subarray-sums-equal/)| [Solution](solution2607.cc)| Medium |
 [2769. Find the Maximum Achievable Number](https://leetcode.com/problems/find-the-maximum-achievable-number/description/)| [Solution](solution2769.cc)| Easy |
+[2806. Account Balance After Rounded Purchase](https://leetcode.com/problems/account-balance-after-rounded-purchase/)| [Solution](solution2806.cc)| Easy |
 
 
 # <h3> Stack 
