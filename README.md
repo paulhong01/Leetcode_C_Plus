@@ -156,6 +156,7 @@ Title | Solution | Difficulty | Others
 [148. Sort List](https://leetcode.com/problems/sort-list/description/)| [Solution](solution148.cc)| Medium |
 [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/)| [Solution](solution160.cc)| Medium |
 [2807. Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/)| [Solution](solution2807.cc)| Medium |
+[2816. Double a Number Represented as a Linked List](https://leetcode.com/problems/double-a-number-represented-as-a-linked-list/)| [Solution](solution2816.cc)| Medium |
 
 
 # <h3> Math 
