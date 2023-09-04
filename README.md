@@ -46,6 +46,7 @@ Title | Solution | Difficulty | Others
 [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)| [Solution](solution162.cc)| Medium |
 [1898. Maximum Number of Removable Characters](https://leetcode.com/problems/maximum-number-of-removable-characters/)| [Solution](solution1898.cc)| Medium |
 [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)| [Solution](solution2616.cc)| Medium |
+[2817. Minimum Absolute Difference Between Elements With Constraint](https://leetcode.com/problems/minimum-absolute-difference-between-elements-with-constraint/)| [Solution](solution2817.cc)| Medium |
 
 
 # <h3> Bit Manipulation
