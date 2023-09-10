@@ -97,6 +97,7 @@ Title | Solution | Difficulty | Others
 [2750. Ways to Split Array Into Good Subarrays](https://leetcode.com/problems/ways-to-split-array-into-good-subarrays/description/)| [Solution](solution2750.cc)| Medium |
 [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/)| [Solution](solution2770.cc)| Medium |
 [2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/)| [Solution](solution2786.cc)| Medium |
+[2826. Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/)| [Solution](solution2826.cc)| Medium |
 
 
 # <h3> Depth-first search 
@@ -230,3 +231,4 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/)| [Solution](solution2799.cc)| Medium |
 [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)| [Solution](solution2824.cc)| Easy |
+[2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| [Solution](solution2825.cc)| Medium |
