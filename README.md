@@ -230,3 +230,4 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/)| [Solution](solution2799.cc)| Medium |
 [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)| [Solution](solution2824.cc)| Easy |
+[2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| [Solution](solution2825.cc)| Medium |
