@@ -5,6 +5,7 @@
 namespace Leetcode {
 
 int Solution2829::minimumSum(int n, int k) {
+    // TC:O(N), SC:O(N)
     std::unordered_set<int> s;
     int min_sum = 0, idx = 1, count = 0;
     for (int idx = 1; count < n; ++idx) {
