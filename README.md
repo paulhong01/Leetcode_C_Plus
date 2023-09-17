@@ -197,6 +197,7 @@ Title | Solution | Difficulty | Others
 [2609. Find the Longest Balanced Substring of a Binary String](https://leetcode.com/problems/find-the-longest-balanced-substring-of-a-binary-string/)| [Solution](solution2609.cc)| Easy |
 [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)| [Solution](solution2785.cc)| Medium |
 [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings)| [Solution](solution2800.cc)| Medium |
+[2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)| [Solution](solution2828.cc)| Easy |
 
 
 # <h3> Tree
