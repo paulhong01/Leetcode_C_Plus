@@ -98,6 +98,7 @@ Title | Solution | Difficulty | Others
 [2770. Maximum Number of Jumps to Reach the Last Index](https://leetcode.com/problems/maximum-number-of-jumps-to-reach-the-last-index/description/)| [Solution](solution2770.cc)| Medium |
 [2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/)| [Solution](solution2786.cc)| Medium |
 [2826. Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/)| [Solution](solution2826.cc)| Medium |
+[2830. Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/)| [Solution](solution2830.cc)| Medium |
 
 
 # <h3> Depth-first search 
