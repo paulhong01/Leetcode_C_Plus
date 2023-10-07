@@ -800,6 +800,18 @@ cc_library(
 )
 
 cc_library(
+    name = "solution2840",
+    hdrs = ["solution2840.h"],
+    srcs = ["solution2840.cc"],
+)
+
+cc_library(
+    name = "solution2841",
+    hdrs = ["solution2841.h"],
+    srcs = ["solution2841.cc"],
+)
+
+cc_library(
     name = "solution2843",
     hdrs = ["solution2843.h"],
     srcs = ["solution2843.cc"],

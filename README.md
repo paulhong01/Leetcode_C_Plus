@@ -139,6 +139,7 @@ Title | Solution | Difficulty | Others
 [2588. Count the Number of Beautiful Subarrays](https://leetcode.com/problems/count-the-number-of-beautiful-subarrays/)| [Solution](solution2588.cc)| Medium |
 [2610. Convert an Array Into a 2D Array With Conditions](https://leetcode.com/problems/convert-an-array-into-a-2d-array-with-conditions/)| [Solution](solution2610.cc)| Medium |
 [2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/)| [Solution](solution2808.cc)| Medium |
+[2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/)| [Solution](solution2840.cc)| Medium |
 [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| [Solution](solution2845.cc)| Medium |
 
 
@@ -239,3 +240,4 @@ Title | Solution | Difficulty | Others
 [2799. Count Complete Subarrays in an Array](https://leetcode.com/problems/count-complete-subarrays-in-an-array/)| [Solution](solution2799.cc)| Medium |
 [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)| [Solution](solution2824.cc)| Easy |
 [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| [Solution](solution2825.cc)| Medium |
+[2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/)| [Solution](solution2841.cc)| Medium |
