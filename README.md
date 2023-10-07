@@ -203,6 +203,7 @@ Title | Solution | Difficulty | Others
 [2785. Sort Vowels in a String](https://leetcode.com/problems/sort-vowels-in-a-string/)| [Solution](solution2785.cc)| Medium |
 [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings)| [Solution](solution2800.cc)| Medium |
 [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)| [Solution](solution2828.cc)| Easy |
+[2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/)| [Solution](solution2839.cc)| Easy |
 
 
 # <h3> Tree
