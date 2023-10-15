@@ -141,6 +141,7 @@ Title | Solution | Difficulty | Others
 [2808. Minimum Seconds to Equalize a Circular Array](https://leetcode.com/problems/minimum-seconds-to-equalize-a-circular-array/)| [Solution](solution2808.cc)| Medium |
 [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/)| [Solution](solution2840.cc)| Medium |
 [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| [Solution](solution2845.cc)| Medium |
+[2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)| [Solution](solution2848.cc)| Easy |
 
 
 # <h3> Linked List 
