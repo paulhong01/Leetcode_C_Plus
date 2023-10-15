@@ -66,6 +66,7 @@ Title | Solution | Difficulty | Others
 ------|----------|------------|-------
 [78. Subsets](https://leetcode.com/problems/subsets/)| [Solution](solution78.cc)| Medium |
 [113. Path Sum II](https://leetcode.com/problems/path-sum-ii/)| [Solution](solution113.cc)| Medium |
+[2850. Minimum Moves to Spread Stones Over Grid](https://leetcode.com/problems/minimum-moves-to-spread-stones-over-grid/)| [Solution](solution2850.cc)| Medium |
 
 
 # <h3> Breadth-First Search
