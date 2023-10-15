@@ -182,6 +182,7 @@ Title | Solution | Difficulty | Others
 [2829. Determine the Minimum Sum of a k-avoiding Array](https://leetcode.com/problems/determine-the-minimum-sum-of-a-k-avoiding-array/)| [Solution](solution2829.cc)| Medium |
 [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/)| [Solution](solution2843.cc)| Easy |
 [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)| [Solution](solution2844.cc)| Medium |
+[2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)| [Solution](solution2849.cc)| Medium |
 
 
 # <h3> Stack 
