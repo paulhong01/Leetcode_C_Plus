@@ -145,6 +145,7 @@ Title | Solution | Difficulty | Others
 [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| [Solution](solution2845.cc)| Medium |
 [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)| [Solution](solution2848.cc)| Easy |
 [2856. Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/)| [Solution](solution2856.cc)| Medium |
+[2857. Count Pairs of Points With Distance k](https://leetcode.com/problems/count-pairs-of-points-with-distance-k/)| [Solution](solution2857.cc)| Medium |
 
 
 # <h3> Linked List 
