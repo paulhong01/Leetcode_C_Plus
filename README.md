@@ -144,6 +144,7 @@ Title | Solution | Difficulty | Others
 [2840. Check if Strings Can be Made Equal With Operations II](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-ii/)| [Solution](solution2840.cc)| Medium |
 [2845. Count of Interesting Subarrays](https://leetcode.com/problems/count-of-interesting-subarrays/)| [Solution](solution2845.cc)| Medium |
 [2848. Points That Intersect With Cars](https://leetcode.com/problems/points-that-intersect-with-cars/)| [Solution](solution2848.cc)| Easy |
+[2856. Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/)| [Solution](solution2856.cc)| Medium |
 
 
 # <h3> Linked List 
