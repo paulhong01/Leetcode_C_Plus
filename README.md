@@ -187,6 +187,7 @@ Title | Solution | Difficulty | Others
 [2843. Count Symmetric Integers](https://leetcode.com/problems/count-symmetric-integers/)| [Solution](solution2843.cc)| Easy |
 [2844. Minimum Operations to Make a Special Number](https://leetcode.com/problems/minimum-operations-to-make-a-special-number/)| [Solution](solution2844.cc)| Medium |
 [2849. Determine if a Cell Is Reachable at a Given Time](https://leetcode.com/problems/determine-if-a-cell-is-reachable-at-a-given-time/)| [Solution](solution2849.cc)| Medium |
+[2894. Divisible and Non-divisible Sums Difference](https://leetcode.com/problems/divisible-and-non-divisible-sums-difference/)| [Solution](solution2894.cc)| Easy |
 
 
 # <h3> Stack 
