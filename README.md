@@ -37,6 +37,7 @@ Title | Solution | Difficulty | Others
 [2798. Number of Employees Who Met the Target](https://leetcode.com/problems/number-of-employees-who-met-the-target/)| [Solution](solution2798.cc)| Easy |
 [2815. Max Pair Sum in an Array](https://leetcode.com/problems/max-pair-sum-in-an-array/)| [Solution](solution2815.cc)| Easy |
 [2855. Minimum Right Shifts to Sort the Array](https://leetcode.com/problems/minimum-right-shifts-to-sort-the-array/)| [Solution](solution2855.cc)| Easy |
+[2899. Last Visited Integers](https://leetcode.com/problems/last-visited-integers/)| [Solution](solution2899.cc)| Easy |
 
 
 # <h3> Binary search 
@@ -101,6 +102,8 @@ Title | Solution | Difficulty | Others
 [2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/)| [Solution](solution2786.cc)| Medium |
 [2826. Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/)| [Solution](solution2826.cc)| Medium |
 [2830. Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/)| [Solution](solution2830.cc)| Medium |
+[2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/)| [Solution](solution2900.cc)| Medium |
+[2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/)| [Solution](solution2901.cc)| Medium |
 
 
 # <h3> Depth-first search 
