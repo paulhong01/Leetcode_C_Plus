@@ -878,6 +878,12 @@ cc_library(
 )
 
 cc_library(
+    name = "solution2899",
+    hdrs = ["solution2899.h"],
+    srcs = ["solution2899.cc"],
+)
+
+cc_library(
     name = "solution2900",
     hdrs = ["solution2900.h"],
     srcs = ["solution2900.cc"],
