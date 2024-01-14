@@ -101,6 +101,7 @@ Title | Solution | Difficulty | Others
 [2786. Visit Array Positions to Maximize Score](https://leetcode.com/problems/visit-array-positions-to-maximize-score/description/)| [Solution](solution2786.cc)| Medium |
 [2826. Sorting Three Groups](https://leetcode.com/problems/sorting-three-groups/)| [Solution](solution2826.cc)| Medium |
 [2830. Maximize the Profit as the Salesman](https://leetcode.com/problems/maximize-the-profit-as-the-salesman/)| [Solution](solution2830.cc)| Medium |
+[2900. Longest Unequal Adjacent Groups Subsequence I](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-i/)| [Solution](solution2900.cc)| Medium |
 [2901. Longest Unequal Adjacent Groups Subsequence II](https://leetcode.com/problems/longest-unequal-adjacent-groups-subsequence-ii/)| [Solution](solution2901.cc)| Medium |
 
 
