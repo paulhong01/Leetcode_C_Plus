@@ -216,6 +216,7 @@ Title | Solution | Difficulty | Others
 [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings)| [Solution](solution2800.cc)| Medium |
 [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)| [Solution](solution2828.cc)| Easy |
 [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/)| [Solution](solution2839.cc)| Easy |
+[2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)| [Solution](solution2904.cc)| Medium |
 
 
 # <h3> Tree
@@ -252,3 +253,5 @@ Title | Solution | Difficulty | Others
 [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)| [Solution](solution2824.cc)| Easy |
 [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| [Solution](solution2825.cc)| Medium |
 [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/)| [Solution](solution2841.cc)| Medium |
+[2903. Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/)| [Solution](solution2903.cc)| Easy |
+[2905. Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/)| [Solution](solution2905.cc)| Medium |
