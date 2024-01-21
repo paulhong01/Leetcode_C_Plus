@@ -216,6 +216,7 @@ Title | Solution | Difficulty | Others
 [2800. Shortest String That Contains Three Strings](https://leetcode.com/problems/shortest-string-that-contains-three-strings)| [Solution](solution2800.cc)| Medium |
 [2828. Check if a String Is an Acronym of Words](https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/)| [Solution](solution2828.cc)| Easy |
 [2839. Check if Strings Can be Made Equal With Operations I](https://leetcode.com/problems/check-if-strings-can-be-made-equal-with-operations-i/)| [Solution](solution2839.cc)| Easy |
+[2904. Shortest and Lexicographically Smallest Beautiful String](https://leetcode.com/problems/shortest-and-lexicographically-smallest-beautiful-string/)| [Solution](solution2904.cc)| Medium |
 
 
 # <h3> Tree
