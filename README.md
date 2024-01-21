@@ -252,3 +252,5 @@ Title | Solution | Difficulty | Others
 [2824. Count Pairs Whose Sum is Less than Target](https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/)| [Solution](solution2824.cc)| Easy |
 [2825. Make String a Subsequence Using Cyclic Increments](https://leetcode.com/problems/make-string-a-subsequence-using-cyclic-increments/)| [Solution](solution2825.cc)| Medium |
 [2841. Maximum Sum of Almost Unique Subarray](https://leetcode.com/problems/maximum-sum-of-almost-unique-subarray/)| [Solution](solution2841.cc)| Medium |
+[2903. Find Indices With Index and Value Difference I](https://leetcode.com/problems/find-indices-with-index-and-value-difference-i/)| [Solution](solution2903.cc)| Easy |
+[2905. Find Indices With Index and Value Difference II](https://leetcode.com/problems/find-indices-with-index-and-value-difference-ii/)| [Solution](solution2905.cc)| Medium |
